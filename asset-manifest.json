@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlipKartGrid/static/css/main.a041500a.css",
+    "main.js": "/FlipKartGrid/static/js/main.963cb68b.js",
+    "static/js/787.f5e1d206.chunk.js": "/FlipKartGrid/static/js/787.f5e1d206.chunk.js",
+    "index.html": "/FlipKartGrid/index.html",
+    "main.a041500a.css.map": "/FlipKartGrid/static/css/main.a041500a.css.map",
+    "main.963cb68b.js.map": "/FlipKartGrid/static/js/main.963cb68b.js.map",
+    "787.f5e1d206.chunk.js.map": "/FlipKartGrid/static/js/787.f5e1d206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a041500a.css",
+    "static/js/main.963cb68b.js"
+  ]
+}
