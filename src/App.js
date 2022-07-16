@@ -4,7 +4,7 @@ import { BrowserRouter , Routes, Route} from "react-router-dom";
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="" style={{ backgroundColor: "#191C1B" }}>
+      <div >
         <Routes>
           <Route exact path="/" element={<Home />} />
         </Routes>
