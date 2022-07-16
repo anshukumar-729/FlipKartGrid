@@ -1,7 +1,7 @@
 {
+  "homepage": "https://anshukumar-729.github.io/FlipKartGrid",
   "name": "flipkart",
   "version": "0.1.0",
-  "homepage": "https://anshukumar-729.github.io/FlipKartGrid",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
