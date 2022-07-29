@@ -1,0 +1,1676 @@
+{
+    "shirts":[
+        {
+            "name":"Linen Shirt",
+            "about":"With chinos or boat shorts, casual, breezy, and perfect for the Indian summer, light soft pastel linen will always be a winner.",
+            "img":"https://lh3.googleusercontent.com/pjG1Tff6AKtoloCGlVoBzIl5BPZ1oO8LyTACuJEWNgV-OQnqKxWA-0CYz9cvHJWVp3UEpZuHdlClykd3Pquu0Z7HOgmlQC9eWtrC6YMB=h450",
+            "score":"10/10"
+        },
+        {
+            "name":"Classic OCBD",
+            "about":"Whether you're still living the Zoom life or going for an open-plan IRL, smart workwear like this Oxford-cloth button-down shirt (OCBD) says you don't just come to work; you look good as well.",
+            "img":"https://lh3.googleusercontent.com/Uw15ONsP1XGYvv6PbVY6ohHIXKiSA0P4v04ISaznmayg6gag9TcQ7oHqTJZ9NeLq__q4-0R8aBXtYzh7pwdK1QJCdDe1dK4wrp_cz4ss=h450",
+            "score":"10/10"
+        },
+        {
+            "name":" Denim Shirts",
+            "about":"A denim shirt owes its popularity to Hollywood; specifically cowboys in films dressed in blue-hued garments. Try this laid-back version from Peter England, made with pure cotton denim and a functional patch pocket. Heehaw!",
+            "img":"https://lh3.googleusercontent.com/hVTLs8eSe8vjbH2dSytIq5XcECOByNYEGtlo6YS69_MrBNIaDX7ZkUsOp6GNFEnyFfK6IUz0vQapDIwayNwX4ZTf7xYooPQlPz5CN70=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Overshirts",
+            "about":"Sometimes, Mother Nature can confuse us with what to wear. The weather might be too warm for a coat and too cold for a t-shirt. Luckily, we have overshirts. They can be perfect light jackets or layers for colder days. It's wearing two outfits in one.",
+            "img":"https://lh3.googleusercontent.com/pjWq8M_OkU6VBO9wMdVr11eIaDWxQ9lnvZjDbQRHOXIcyIq96h66UrjzO76r1J9aMuM1HkNwC-QbxjfmJ9xhnHYb25a6t4XU0QQKIyEb=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Printed Shirts",
+            "about":"A full-sleeve floral or a Cuban collar Ikat, a nice printed shirt in your 'drobe can take care of the style statement on days you care too little to be gussied up.",
+            "img":"https://lh3.googleusercontent.com/4EPJ5JmxxTS10MKyHps280Nt9DnGErXfbeRFYuZq1VTxmjO4GK_pE0cn4OUB_TIauf1kvLvEGguOD7p3f1izH1VBfEewKwrn_THIHasu=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Short Sleeve Shirts",
+            "about":"The classic short-sleeve shirt can be one of the most versatile button-ups in your wardrobe. Wear them untucked with shorts or chinos for a perfect vacation.",
+            "img":"https://lh3.googleusercontent.com/rA950Bv9Ia00l_HNvcd2dBbyoEIcJv5sPR-asZcN9vfRT2YG8hztggocAoPxKhP2VifNK3pY36JHH8U6jfHEdSL5DlfUm5trHo0c4aE=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Cuban Collar Shirts",
+            "about":"Pull out your cigars and soak in a Cuban collar shirt in the sun. With short sleeves and an open collar, these shirts are an essential summer staple that make you look and feel good.",
+            "img":"https://lh3.googleusercontent.com/TAi-e0hthXR6Vew_DAaCkaqiwYK5u0WuvKNRdz7ZzxjNP7gIW6KxThRJq8rsXzK6bXS4NFtgJyBq3ujefhzPYw8l8kXPQ9D0sQ073wkooA=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Dress Shirts",
+            "about":"Nothing spells low effort like slinging a sports coat over your dress shirt for a date night or a dinner party. This shirt features a spread collar, and thanks to the cotton and elastane blend, it wicks moisture and resists wrinkles, guaranteeing you feel as good as you look.",
+            "img":"https://lh3.googleusercontent.com/CT3XMdsfPBSuGMFHdFmiu05v0TtyGdJY8-WNZPSS7l-1ec7bpG4fdQTW8mE1rU0_J9Zj3qQXtCG7ywMYZJsnZLUAGzk_19MCNMcF4qFn=h450",
+            "score":"9/10"
+        },
+        {
+            "name":"Polo T-Shirts",
+            "about":"We can't stop (and won't stop) raving about this slim-shaped Puma polo t-shirt, incorporating a breathable fabric to wear to the golf course or the gym. A true athleisure staple.",
+            "img":"https://lh3.googleusercontent.com/q_kMXaEuuj07AX_JjB7QJzAImNLQBsoWypXPUjhmFtqkee2v_-QQYV1ZGRYVbyjlfKBHgs5bIDnEZOxy7lL8pmBw0ESOCT9BwzkOL29W=h450",
+            "score":"8/10"
+        },
+        {
+            "name":"Flannel Shirts",
+            "about":"Cool, casual, and chequered is a spiffy style statement. The utility of flannel shirts makes them a must-have for your closet. These shirts give layers and pack in some warmth.",
+            "img":"https://lh3.googleusercontent.com/ehjKkUNFeDM9nJlxgQBKfrTEarJerq1rqeA1MfgYPD-EynJ2pZf93eZ0yTWiv8M6wCOSd4dR_qpL5Szd1Q2y4P13o0kcdpc_3IixfEQI=h450",
+            "score":"8/10"
+        }
+        
+    ],
+    "sarees":[
+      {
+        "name": "Floral embroidery sarees",
+        "about": "Think Karishma Kapoor at Alia Bhatt's wedding. Floral embroideries have taken over the saree trends of 2022, and it's glorious. Of all the latest saree designs we know of, this one is our personal favourite. The intricate detailing, craftsmanship and sheer beauty, is bespoke. If you're hoping to follow this pattern, we highly suggest net sarees. ",
+        "img": "https://lh3.googleusercontent.com/4wlflDXLQhozttdVpw24gjGStbU8lZ2wE8heZ6Z6QfPP64no7uXzUVH-SzWUrlQ-EcLS8qrZtLDMpL51vooZt1s_6T7g_P_y7mOYChsrug=h450",
+        "score": "10/10"
+      },
+      {
+        "name": "Colour Block sarees",
+        "about": "A saree with a splash of colours is the perfect outfit for summer 20It's refreshing, different, and quite frankly, delightful. Since colour blocking is detailing in itself, accessorising can be kept to minimal.",
+        "img": "https://lh3.googleusercontent.com/vlPVvHZ-gdSohukQ7M49khMyGsS8ttX2oQLI_ps3njXi7hwIKHca4njJDfAzWp-xoFL9MUoL0-UW9ljJVomJi3O0iB0xDjllg5jhWEE=h450",
+        "score": "10/10"
+      },
+      {
+        "name": "Organza sarees",
+        "about": "In a love-hate relationship with silk sarees? We found the perfect saree trend for you: Organza! They look just like silk but are less shiny, lighter and easier to carry. They offer a matte-like finish that definitely looks ultrasophisticated. Depend on this saree design for weddings or classy office dinners. ",
+        "img": "https://lh3.googleusercontent.com/BUKiXdk-_zFuvyO3s193EtFQM3fw3e4CTrurjSTMJmDD-WKmLlBc8dV8fmksy5gWBCrNkIyatLw_l9zcwsNHPpuyaH2zBIIh2q2fPGc=h450",
+        "score": "10/10"
+      },
+      {
+        "name": "Multi-colour sarees",
+        "about": "Full disclosure: Multi-colour saree design is the one to beat. Any party, wedding or otherwise, these sarees stand out, just like you. We adore this saree trend by Sabyasachi and hello, Deepika Padukone is totally pulling it off. The great news is that these beautiful sarees are available at wholesale markets like Sarojini Nagar and Santa Cruz.",
+        "img": "https://lh3.googleusercontent.com/2sE3MGzRTi-GAHlykmNNC_Z4Xz_FC47fnc4L_ydv886u2Y8bIJ09LFJbuoC9x8lX3MNyruPypQ4v9HOqNj76pSpQviKSi-73s6ablHuNcw=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Pastel sarees in silk",
+        "about": "Silk sarees are timeless! And it looks like pastels aren't going away anytime soon. A pastel saree in silk is a dreamy wedding outfit that translates subtlety and class. This saree design is readily available in markets, and you have an opportunity to add as many family heirlooms (gold jewellery) as you want. ",
+        "img": "https://lh3.googleusercontent.com/YfgRg287vxeu7u_N94AZd0Qtnj5090Aa1CPYw8_rXxDqMbRcSOGHSPfzHhGXbuKBIfFROrsa_Q1ba6FnyAmxa-42QxsV_G_3rZmLZzo=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Net sarees",
+        "about": "Net sarees are back, and they're more elegant than ever. Zari, Zardari detailing, heavy borders, deep-neck blouses... this saree design is the showstopper of 20Our very own Bollywood child: Alia Bhatt, made headlines with her off-white net saree at her wedding. And even if it's plain, net sarees always look stunning and glamourous. We recommend you to hop on to this saree trend STAT!",
+        "img": "https://lh3.googleusercontent.com/HIoFAdSuUoi1Nf9jS5xkzAsCn1zg2GmXAmKOwrXEHeYbaufh7OGT9fG1LUmWh2HhyQZEx0c1FkXYumI5TqB8CJiakpRJf8kmJsxxucF5=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Ruffle sarees",
+        "about": "With a foine saree trend as good as ruffles, you don't need fancy blouses or heavy jewellery to back your ensemble. Ruffles have been on our radar for quite some time now, and they're beautiful. The layer, the texture, and the flair are unmatched by any other saree design. Our advice; always pick a sequin blouse with a plain ruffle saree. ",
+        "img": "https://lh3.googleusercontent.com/hwVuxBZTcB7vDohtgsS8P9Fc1mC0L14Hu4sRfSYjYHQlgcmOogIMDjA2EHZQ522DtU3xKz_c3ZovzPjA75YwYOp_Vf2DPDtOHon94LVJdg=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Monotone it",
+        "about": "A single shade - as powerful as black or red - can make a fashion statement louder than the splashes of bolder colours. If your personal style leans towards minimalistic, monotoning your saree is a terrific option. It's classier, tasteful, and easy to carry. ",
+        "img": "https://lh3.googleusercontent.com/3SquEMHN2vHdlVobpV8wsZaqAuZbbKYnzybqRYdF-9fPRNszM6jogXmkNkkKFV4ybqZDFGd5SJ2pT4rX3UdWS4b4l8RLrO6ldRVP22jS=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Add a statement neckpiece",
+        "about": "If too much detailing is not your thing, go for lighter and more comfy saree designs... and add layered statement neckpieces. They're good for any occasion, casual, work, or wedding, and they look particularly great with deep v-neck blouses.",
+        "img": "https://lh3.googleusercontent.com/kQ3XB0l8SFInVGRGuo8uuREjZGn7I16Krnk_nsqReBNd3tWJwyYlXbj_fyovstMN2YhjBYV_qQhojHmZlGwGNoe6C7v19tZPFV8SsHWP=h450",
+        "score": "9/10"
+      },
+      {
+        "name": "Belt it up",
+        "about": "Belts are in. Whether it's mom jeans, dresses or sarees, belts are completing every look with style and panache. However, pairing a saree with an embellished statement belt will go a long way. It's the latest saree trend, which is now available as a set at ethnic stores near you. ",
+        "img": "https://lh3.googleusercontent.com/kkl_zTR8MfzyRpkgrMQI5US6MA8Ih4u6PYqbL0achohuL7_Yt4trOi5xkZkGaArFrJwiaxfa6hA1C3gb_30mZkLMdN7FzMfwO827_QqQoA=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "It's white or nothing",
+        "about": "Bollywood actresses have owned white sarees for generations - Waheeda Rehman, Sharmila Tagore, Hema Malini or Rekha. It's a fairytale saree trend you can recreate with different types of sarees. If it was us, we'd go for organza or net. ",
+        "img": "https://lh3.googleusercontent.com/VW2adqiyNoMG95tkMaHPCTWT8xh2bdBeIx_crg67e2Rd-anlZrrYxkLVL50MsQhM3vigY6w-xxqB6-_x9yzDxvLoPJ1CceHhnvttauRrvg=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "Saree with balloon-sleeved blouse",
+        "about": "This saree trend is a definite \"win-win\". Inspired by Sonam Kapoor Ahuja's floral saree by Masaba Gupta, we love the quirk and layering added by the bell sleeves. The ensemble works great even if the saree is plain and simple, while the opportunity for accessorising is immense. This saree trend has definitely redefined the traditional concept.",
+        "img": "https://lh3.googleusercontent.com/bhpPMQOu4r5vPAFau03rqHy6e34VqiiC80cDmGJdaaX8lAcu3dNGT6-k01GvJRVpmkruRttbolhFI5EsccqIWUZy12DHP72nY7QnKA0=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "Saree with a corset blouse",
+        "about": "Never underestimate the significance of blouse detailing. Since corsets are dominating the fashion trends of 2022, it only makes sense to include them in the latest saree trends. Any saree design - tissue, net, organza or chiffon - can be revamped with a tasteful corset. At the end of the day, it's all about carrying an outfit with confidence!",
+        "img": "https://lh3.googleusercontent.com/sc8zruG8hmVcP_oWc0RmSyjiZewB4AfyfXoP73rz-4LJNjy18sLQsJ9FTWblwMUOC6g2Gy3LqBpCBsmR0zJYndBZkc51G4dyGD1jrwah=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "Printed peplum blouse",
+        "about": "The peplum style blouses are trending this season, and we couldn't be more excited. Even if sarees are not your thing, this saree trend will change your mind. It's very stylish and contemporary. ",
+        "img": "https://lh3.googleusercontent.com/Oj9FcK4QNCw3XNwPIjQrZWdRHTi5bEON9xKGU_jctidomI4mXZ6ib0e_aV1UUgz8CJ4MrZadb3j2WyIap-E2TyN8lj7qDNNwdiEz8sZo=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "Bling it on",
+        "about": "Bollywood's hottest designer sarees are now making headlines with beautiful sequin blouses. They exude glamour and style that is tasteful and admirable. These blouses are a stunner, and they agree with the latest saree trends like chiffon, net, and embroidered. Pick this saree look for close wedding shindigs. ",
+        "img": "https://lh3.googleusercontent.com/YYPCg0TOQILuF3sf9y-NTSPk-ys_J9-twW2B0wCbPScKSf2pc3cbCdcVZmGbkhGuII_fz3zSddeLyT-GdhoSP10foJpAIy-J6OTYz0UHSA=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "V are all for it!",
+        "about": "Deep neck blouses are all the rage in 20The design looks particularly ravishing with puff three-fourth sleeves or full-on bell sleeves. The sweet neckline teams nicely with see-through saree trends like net, chiffon, and organza. Add a beaded necklace to the ensemble for an elegant feel. ",
+        "img": "https://lh3.googleusercontent.com/YIFFNivzLG9Txzm4j-Ld-aihvuUVfujxu5fnZiHJRgT4vc4sbKjkNi0mrq9ZYM_Q3fndkh-GzuKzlSeSBS97IzAGE9TsA7wMBRs8P4bo=h450",
+        "score": "8/10"
+      },
+      {
+        "name": "Full-sleeve embellished blouse",
+        "about": "Your saree wouldn't have to work hard if a long-sleeve embellished blouse does its job. Ready available at local markets near you, these blouses are meant to be backless with a boat/high neckline.",
+        "img": "https://lh3.googleusercontent.com/nPYlWOw57sSGr8Ex0ehsyTEtdfaSfFMUScwTCTHiJsjP22RdrqhoodPNb8dwRDVcscQySB2lFFalRQb4ctnScYaiwD0l6rYVynNLUPuB=h450",
+        "score": "7/10"
+      },
+      {
+        "name": "Knot your average blouse design",
+        "about": "Back bow knots are adorable, especially on blouses. Inspired by the top fashion bloggers, the blouse design offers a great saree trend for 2022 without having to spend another buck on new sarees. Pick a plain, solid shade (minimal detailing will work too) and pair it with a back bowknot blouse for a chic look.  ",
+        "img": "https://lh3.googleusercontent.com/cptMWVE9Qsdetqsvcp_29xENI-dIpBqxnFFpX0G5i42sf1BlG7m8pJlofmxhRAlfllQz9E3yd6WjgIO-5kCJfsRwOYD_QyjYcyY-Fn1L=h450",
+        "score": "7/10"
+      }
+      
+    ],
+    "jeans":[
+      {
+        "name": "Reiss",
+        "about": "Reiss jeans sit on the smarter and more sartorial end of the denim spectrum, so you can expect to find slimmer, slimmer silhouettes over trending baggies. With room in the thighs but keeping a close fit and tapered hem, the modern wash blue keeps it casual, but can always be dressed up with the likes of loafers and a buttonless polo. ",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb109462bbdd05e0f7dd5/master/w_1600%2Cc_limit/DJ_01.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Nudie Jeans",
+        "about": "An indigo-hued pair of jeans should be a stalwart in any man’s roster, and for a pair that will stand the test of time, Nudie’s got you. Made from 14.25 oz Turkish selvedge denim, these jeans will become better with every wear and wash, developing their own unique patina. Should anything happen to them in the meantime, a lifetime of free repairs at a Nudie Repair Shop will have them good as new in no time.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb109462bbdd05e0f7dd4/master/w_1600%2Cc_limit/DJ_03.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Asket",
+        "about": "You know those jeans that melt to your body and get better with each wash? Well, these are them. Cut from Japanese raw denim and expertly sewn in Italy, these are premium, game-changing jeans at a fraction of the cost.",
+        "img": "https://media.gq-magazine.co.uk/photos/5fd9e3aaf29da2e6a725ad2c/master/w_1600%2Cc_limit/JEANSUPDATE_1612_ASKET.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Frame",
+        "about": "Sustainable denim is core to every Frame collection, manifested in fair manufacturing practices and timeless, everyday aesthetics. These light blue jeans are the kind of pair that’ll see you through every summer for the foreseeable, with subtly distressed detailing that perfectly captures the effortless cool of the brand’s Los Angeles home.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10c162cb5782b59ea4d/master/w_1600%2Cc_limit/DJ_08.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Wrangler",
+        "about": "Founded way back in 1947, Wrangler began its illustrious design history by creating durable clothing meant to ease the discomfort of cowboys. Fast-forward to '22 and Wrangler is now known for its strong, everyday silhouettes designed with a fashion-led mission —  and the brand's Texas Taper jeans are no exception. In a washed grey tone, these jeans are cut from a high-quality cotton with just a touch of stretch, working to keep you comfortable regardless of the demands of your day.",
+        "img": "https://media.gq-magazine.co.uk/photos/625ee59bf89d279876e3a587/master/w_1600%2Cc_limit/19042021_Jeans_02.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Arket",
+        "about": "A self-described ‘modern market’, Arket creates minimalistic menswear brimming with elegance and tinged with edge. A modern jean with a vintage tinge, this pair boasts just the right amount of ‘retro’ in their textured wash and cropped fit, whilst the rigid denim twill construction ensures the longevity the pair needs to see them through many more decades in your denim collection.",
+        "img": "https://media.gq-magazine.co.uk/photos/625fd6c5d6a4407e6e962856/master/w_1600%2Cc_limit/arket.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Reiss",
+        "about": "Fact: it doesn’t get cooler than black jeans. While the washed effect will emanate a rock ‘n’ roll aesthetic, Reiss’ Rufus style is deep, dark and refined. Turn them up with white trainers for a monochrome contrast, or play up to the smart aesthetic with a pair of polished Chelsea boots.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10995df28c8e27b8658/master/w_1600%2Cc_limit/DJ_02.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Everlane",
+        "about": "The only denim with a shifting life span, the beauty of a pair of selvedge jeans is that they evolve with you – they’ll pick up your creases, the shape of your wallet and even the model of your phone, softening more and more over time. In a mid-blue wash, these jeans from Everlane are cut in a slim-fit, but the more you wear them, the more ‘you’ they’ll become.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10995df28c8e27b8658/master/w_1600%2Cc_limit/DJ_02.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Tom Ford",
+        "about": "Slipping on a pair of Tom Ford jeans is more than just a look; it’s a lifestyle. Yes, the slim-fitting Japanese selvedge denim in midnight-hued indigo is refined and sophisticated, but what you’ll receive the most compliments on from these jeans is the confidence you emulate in them.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10a2385b75b995a472e/master/w_1600%2Cc_limit/DJ_06.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Molly Goddard",
+        "about": "If you’re looking to take your denim cues from a certain Harry Styles album cover, you’ll want to familiarise yourself with the styles of Molly Goddard. This rigid, wide-fitting pair are a close copy to the Gazebo pair sported on the artwork of Harry’s House, punctuated by a cartoonish flower embroidered at the back for some signature Styles eclecticism.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10a162cb5782b59ea49/master/w_1600%2Cc_limit/DJ_05.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Levi’s",
+        "about": "Decorating the silhouette that started it all with an archival print from the ‘60s Summer of Love, these Levi’s jeans are the perfect festival pair, scrawled with psychedelic motifs sure to make them the focal point of your ‘fits. To bring the attention up a couple of feet, consider also the matching jacket.",
+        "img": "https://media.gq-magazine.co.uk/photos/62dfb10e95df28c8e27b865a/master/w_1600%2Cc_limit/DJ_10.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Cos",
+        "about": "When it comes to denim, Cos is always one step ahead of the trends, so it’s no wonder the high street brand has got the relaxed cut down to a fine art at this point. It doesn’t hurt that Cos is also championing sustainable constructions, made with recycled cotton and eschewing metal rivets on its jeans for easy recycling at the end of their time on your legs.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Nick Fouquet",
+        "about": "Starting life making hats with a distinctly bohemian verve, under designer Federico Curradi, Nick Fouquet’s ready-to-wear pieces are not lacking in character, citing the wardrobe of Jean-Michel Basquiat and the films of Andrei Tarkovsky as references, to name but a few. The Venusto jeans blend a fundamentally utilitarian aesthetic with eclectic details like its printed patch pocket for a striking, eclectic finish.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Uniqlo x JW Anderson",
+        "about": "Bringing boot-cut back, these Uniqlo x JW Anderson jeans evoke a distinctly laidback feel, representing the coastal themes of the duo’s SS22 collection as a whole. Ideal for spring, the mid-wash blue combines with lightly faded detailing at the knees to create a distinct feeling of renewed relaxation akin to taking deep breaths of salty sea air.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Saint Laurent",
+        "about": "The western trend has been gaining momentum season after season, and we’re nearing a point where the flared jean is no longer feeling like a ‘70s relic. These Saint Laurent jeans balance the look with a glam rock vibe that can be amped up by a Cuban heeled boot and a statement printed shirt.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Kapital",
+        "about": "Kapital is known for wild and wacky motifs that take cues from mid-century Americana, and this pair of jeans seems to have had everything on the brand’s vision board thrown at them. Leaning into the US' hippie heyday, in amongst the all-over patchworks are colourful smileys, peace signs and paisleys sure to turn heads (and break necks) with every outing.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Diesel",
+        "about": "Celebrating individuality and self-expression since the 1970s, modern-day Diesel specialises in reimagined wardrobe staples with nostalgic '90s references. Diesel's D-Mitry jeans boast the same washed grey tone often seen in its collections, which, combined with a modernised straight-leg, epitomises what the label does so well.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Levi's",
+        "about": "The founding father of blue denim, Levi's began designing way back in 1853, making durable clothes for hardy labourers. Now the global leader in all things jeans, Levi's 501s are just about the most iconic style offered by the label, and are therefore a must-have in every modern wardrobe. Available in a huge array of washes (37, but who's counting?), our pick has to be this vibrant mid-blue as the perfect colour for the saturated, warm-toned summertime.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Boss",
+        "about": "Whilst the rich indigo blue of these Hugo Boss jeans might initially pull focus, the true show-stopping element is their super-soft feel. Stitched from finely woven denim made at the esteemed Candiani mill in Northern Italy, these jeans boast a butter-like smoothness to the touch, made to stand out amid the more rigid denim that can have you repeatedly reaching for the fabric softener.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Scotch & Soda",
+        "about": "For those looking to branch outside of their denim comfort zone, this pair from Scotch & Soda offers something a little different. In a distressed design with a playful twist, these tapered-fit jeans are ripped at the knee and repaired by tonally-embroidered four-leaf clovers, bringing not only style, but good fortune to your seasonal ensembles.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Balenciaga",
+        "about": "Hailing from Bieber's brand of choice, these Balenciaga jeans are a loucher take on your daily denim. Easing you out of 2020/21 era joggers and back into big 'fits, these jeans are kept comfortable with an elasticated waistband and ultra-wide leg. When it comes to styling, simply tuck in your tee of choice – it really is that easy. ",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Gucci",
+        "about": "Logomania has ruled the world of fashion ever since the ‘90s and ’00s resurgence, and Gucci's Epilogue collection is no exception. Sent down the runway just months ago, these straight-leg jeans have been cut from organic GG jacquard denim, and specifically eco-washed for a vintage effect. Together, these capture the fashion house's individualistic spirit and its affinity for reinventing the ever-popular GG Supreme in new colourways and fabrications. ",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Rag & Bone",
+        "about": "Founded in the early 2000s by Marcus Wainwright and David Neville, a duo with passion and vision but no formal fashion training, Rag & Bone defied all expectations and rose to prominence, creating a relatable collection of reliable staples with wearability at their core. Designed as an exaggeration of coveted denim styles, Rag & Bone's Fit 2 jeans have been overdyed into an uber-saturated indigo hue and shaped in a versatile slim-leg fit.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Marine Serre",
+        "about": "Marine Serre's spooky, celestial half-moon motif has become an instantly-recognisable emblem of the label, and for very good reason. Spliced throughout Marine Serre's collections, the design decorates these Regen straight-leg jeans in bold panels outlined with contrasting topstitching, as though emphasising its very presence. Keep styling simple with a black or white T-shirt, and let these jeans speak for themselves. ",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Cos",
+        "about": "Dedicated to its sustainable vision and belief in diversity, Cos designs sleek menswear with strong principles. Cut from non-stretch recycled cotton, these jeans boast a comfortable hip-hugging mid-rise and slouchy tapered fit. And, in a fully recyclable construction, they'll wear just as well now as they will in their next life. Reincarnation never looked so good. ",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "A-Cold-Wall*",
+        "about": "Citing youth subcultures and architecture as major sources of influence, A-Cold-Wall* creates high-quality streetwear with a pinpointed designer eye. Punctuated by graphic print and finished with faded detailing, these ankle-length, straight-leg jeans defy expectations of everyday denim.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Paige",
+        "about": "Based out of sunny Los Angeles, Paige creates unique denim imbued with the chilled-out spirit of California. In presenting these Croft jeans for Spring/Summer, Paige introduces its slimmest fit to date, cut from premium stretch denim fabric that hugs the wearer from hip to hem.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Allsaints",
+        "about": "Practically the patron saint of grunge and rock ‘n' roll style, Allsaints specialises in dark, dusky, trend-driven pieces for the laidback modern man. Cut in a loose-fit, its Reeves jeans bring a distressed feel to your denim collection with their washed black tone and slouchy silhouette.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Pangaia",
+        "about": "Essentials brand Pangaia is scoring all the style points thanks to its combination of quality designs and ethical production. Case in point: this rinse washed pair of straight-leg jeans, super flattering to any shape, treated with PPRMINT™ to keep them fresh and made from a completely plant-based denim blend. Bravo indeed.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Asos Design",
+        "about": "We’d tend to advise against cheap and cheerful denim on the basis that this is an area of menswear that can be particularly hard on the environment. Thankfully, not only is this pair by Asos Design bang on trend in a weighty denim with a tapered fit, but they’re also part of the label’s responsible edit. The brand has partnered with the Better Cotton Initiative to improve cotton farming conditions while promoting water efficiency and reducing use of harmful chemicals. ",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Bottega Veneta",
+        "about": "To those inclined to take a bolder stance with their denim, this Bottega Veneta style is well worth the investment. Topstitched with the house’s signature forest green shade (particular praise goes to the triangular detail on the back pockets), they fall slightly wider than average and are finished with a workwear-inspired side tab. Just stunning.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Marks & Spencer",
+        "about": "Simple but effective, these regular-fit jeans from Marks & Spencer channel a contemporary vibe with their pale-toned denim and faded-look stitching. For a minimal-effort, maximum-impact look, just add a boxy T-shirt and some chunky trainers. ",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Arket",
+        "about": "Retro-inspired and uber comfortable, these jeans from Arket capture the best of both worlds. Cut for a loose, '90s style fit, this pair boasts a rigid denim twill construction, made from Tencel and recycled, organic cotton, ensuring that the planet is just as taken care of as your wardrobe.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Ralph Lauren",
+        "about": "Ralph’s Sullivan jean is a classic in its washed-out shade of turquoise-y blue. They’re typically preppy from the brand and, fittingly, are made from American-grown cotton. The sanding down around the knees gives them that timeworn feel, as though they’ve been a staple in your wardrobe for as long as anyone can remember.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Acne Studios",
+        "about": "We all love that pair of jeans that look worn but aren’t and Acne Studios has managed to nail the balance between new and worn with this tapered pair. The classic fading at the knee gives the appeal of a well worn-favourite, while the mid-wash blue sits as a nice contrast against the label’s signature pastel-pink patch at the waistband.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Everlane",
+        "about": "If you’re looking to replace your beloved black jeans, consider this pair from Everlane’s Uniform line. Jet black in colour, they boast a straight-leg cut and a four-way stretch design, meaning that you can wear them everywhere from your desk to dinner and they'll be moving right alongside you. And if dinner develops into a spontaneous night out… well, you're already ready.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Cos",
+        "about": "You can count on cutting a contemporary figure in a pair of Cos jeans. The slim leg on these means they’ll look great with just a white T-shirt, while this shade of washed grey is the perfect pairing to a classic leather or denim jacket. ",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Marks & Spencer",
+        "about": "Don’t write off the high street in your search for a pair of jeans with a premium feel. Upgrading your wardrobe with selvedge denim for under £50 is no easy feat, but that most trusty of retailers, M&S, will sort you out. These black straight-fit jeans are a perfect balance between smart-casual and date-night go-to.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Weekday",
+        "about": "A washed black pair of jeans is a staple. Barrel leg and tapered, this pair from Weekday will add instant laid-back style to any outfit. Wear yours with a brightly hued, oversized jumper to contrast the grungey appeal with something more preppy. ",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "I And Me",
+        "about": "This 1990s silhouette, inspired by street culture, is fast finding its way back into mainstream fashion. Think modern-day Micheal Jordan but with the styling mind of Robert Pattinson. The worker-blue shade complements a fresh white tee with trainers to match.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Carhartt WIP",
+        "about": "We all know Carhartt for its relaxed skater style, but did you know it has a rather extensive selection of jeans? Among our favourites is this deep indigo pair with their tapered fit, pre-washed for added comfort. Just pop on your favourite grey sweatshirt and, voilà, outfit complete. NOW READThe best men's bucket hats for turning heads this summerThe best men’s chinos that don’t scream ‘dadwear’The best white T-shirts to nail the ultimate wardrobe essential",
+        "img": "",
+        "score": "7/10"
+      }
+    ],
+    "mens-cap":[
+      {
+        "name": "Prada",
+        "about": "The nylon Prada cap is something of an icon-status accessory. Most commonly seen in the brand’s oh so adored black colourway, this season we’re favouring its neutral cousin. Don’t worry, the flex-worthy triangle logo plaque is exactly where it should be.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe60906f23635fedcfda/master/w_1600%2Cc_limit/2403032022_CAP_04.jpeg",
+        "score": "10/10"
+      },
+      {
+        "name": "Percival x Off Menu",
+        "about": "Psssschhhhhhhh....welcome to the dream restaurant, we've been expecting you for some time. Reuniting for a second collaboration, menswear stalwart Percival and Off-Menu podcast hosts James Acaster and Ed Gamble join powers for a whimsical collection that sees Percival's basics embroidered with a blend of food-related motifs and the hit podcast's hosts. Case in point: this corduroy baseball cap stitched with Acaster and Gamble as scoops of ice cream in a decadent sundae… because, well, why not?",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac45bd8795e277a99281d3/master/w_1600%2Cc_limit/Caps_0005_Percival.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "PS Paul Smith",
+        "about": "Paul Smith's sister line, PS Paul Smith designs with all of the hallmarks of Sir Paul Smith's idiosyncratic style and love of quintessentially British modes, but with an added touch of quirkiness. Standing out against its noir black background, this baseball cap is stitched with a bright logo in the formation of a smiling face, because why wear just one in this glorious weather?",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac47f52da9f5f89888ebb0/master/w_1600%2Cc_limit/paulsmith.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "New Balance",
+        "about": "For sporty, dad vibes, no one does it better than New Balance. Bringing you a note of nostalgia amid your usual summery style, this baseball cap is embroidered with a varsity-style logo standing boldly against its royal blue background.",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac45be2da9f5f89888ebae/master/w_1600%2Cc_limit/Caps_0004_Ralph%2520lauren.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Polo Ralph Lauren",
+        "about": "You simply cannot go wrong with Ralph Lauren’s polo-playing emblem at the centre of your summer headwear, and that’s especially true if said headwear is done out in a sunshine-friendly pastel green hue. Put simply, this piece encapsulates everything that the label does so well; it's preppy, timeless, and essential.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe5f4afc76863dc11b13/master/w_1600%2Cc_limit/2403032022_CAP_02.jpeg",
+        "score": "9/10"
+      },
+      {
+        "name": "Cos",
+        "about": "A high street steal at less than £20, this five-panelled cap by Cos contrasts a versatile navy hue with a bright red lining that extends out to the underside of its visor. A typically simple style win from the Scandi brand.",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac45bf000d9ce847e66d06/master/w_1600%2Cc_limit/Caps_0002_Versace.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Fendi x Versace",
+        "about": "In what feels like the most experimental episode of Wife Swap yet, Fendi and Versace have blended their two luxury labels in a collaborative “style swap”, creating a vast collection of pattern-centric and logo-laden designs. Printed with the collaborative logo at the front, this baseball cap endorses the labels' lovechild in a glamorous, but distinctly everyday manner.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe62e3abdc9edf3a23f6/master/w_1600%2Cc_limit/2403032022_CAP_11.jpeg",
+        "score": "9/10"
+      },
+      {
+        "name": "Pangaia",
+        "about": "Speaking of Harry Styles, Pangaia is a brand that’s been adopted by the performer among many other major style icons. The brand specialises in elevated and sustainable staples in a rainbow of colourways, of which pinks and purples have thus far reigned supreme. Herewith, allow us to introduce you to your new favourite accessory – Pangaia’s 100 per cent organic cotton orchid purple baseball cap.",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac45bf000d9ce847e66d07/master/w_1600%2Cc_limit/Caps_0001_Velentino.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Valentino",
+        "about": "Valentino — or, VLTN — has proclaimed that vowels are out, and consonants are hotter than ever. In a minimalistic design cut from pure cotton, this baseball cap is printed with the bold and snappy VLTN logo front and centre. No messing around here. ",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe63138c06ce54fe2916/master/w_1600%2Cc_limit/2403032022_CAP_13.jpeg",
+        "score": "8/10"
+      },
+      {
+        "name": "Beams Plus",
+        "about": "Beams Plus knows its way around a patchwork garment, and the same rings true of this rather excellent panelled hat. Mixing swirls, paisley and stripes in a nod to ‘90s skate style, pair with Harry Styles-esque wide-leg jeans and a cosy hoodie for the ultimate weekend look.",
+        "img": "https://media.gq-magazine.co.uk/photos/62ac4ac3000d9ce847e66d2f/master/w_1600%2Cc_limit/reissxcastoreee.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Reiss x Castore",
+        "about": "A meeting of menswear minds, the Reiss x Castore collaboration collection blends tailoring with innovative engineering to create a finessed, sporty selection worthy of everyday wear. Crafted using a six-panel construction and a breathable mesh back, this cap is ready to take on everything from afternoon strolls to sweaty summer runs. So, what are you waiting for?",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe5f138c06ce54fe2910/master/w_1600%2Cc_limit/2403032022_CAP_01.jpeg",
+        "score": "8/10"
+      },
+      {
+        "name": "Balenciaga",
+        "about": "For all of Balenciaga’s out-there designs, there’s an outwardly normcore one to balance things out. Exhibit A, the humble sans serif logo-embellished baseball cap in black and white. So simple, so effective.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe60e3abdc9edf3a23f2/master/w_1600%2Cc_limit/2403032022_CAP_03.jpeg",
+        "score": "8/10"
+      },
+      {
+        "name": "Gucci",
+        "about": "The winning Gucci motifs are out in force on this baseball cap, including original GG fabric, green and red web stripes and luxurious brown leather trims. For extra steezy ‘fits, coordinate with a matching bag. ",
+        "img": "https://media.gq-magazine.co.uk/photos/5f365e30ffe32218efca4fd1/master/w_1600%2Cc_limit/20200814-cap-04.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Columbia",
+        "about": "There's plenty about this Columbia cap that makes it a practical option for an increasingly unbearable British heatwave, from the sweatband to the UPF 50 sun protection and additional neck shield. But the truth is this kind of functional outerwear is increasingly appealing from a fashion perspective, too, worn with a graphic T-shirt and your favourite shorts.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe62138c06ce54fe2914/master/w_1600%2Cc_limit/2403032022_CAP_12.jpeg",
+        "score": "7/10"
+      },
+      {
+        "name": "Burberry",
+        "about": "Burberry adopts a more muted check than it’s known for with this new season cap, in lighter beige shades which, though different, are still easily placed as the British fashion house’s. If you did need the extra reassurance, Burberry branding is tonally embroidered across the back of the cap, which is sure to make you the envy of all who walk behind you.",
+        "img": "https://media.gq-magazine.co.uk/photos/623dbe61906f23635fedcfdc/master/w_1600%2Cc_limit/2403032022_CAP_07.jpeg",
+        "score": "7/10"
+      },
+      {
+        "name": "Acne Studios",
+        "about": "In the winter, Acne Studios’ face patch beanies are always at the top of our wishlists, and when the sun starts to rear its head again, the label’s caps are equally coveted. Go for the dusty pink, something of a speciality for Acne Studios, and your summer style will get an instant lift.NOW READThe best summer hats for men, whatever your styleThe best flip-flops for men for channelling those summer holiday vibesThe best summer suits for every budget",
+        "img": "",
+        "score": "7/10"
+      }
+    ],
+    "jewelry":[
+      {
+        "name": "Panacea Organic Gold Link Chain Necklace",
+        "about": "Panacea’s oversized gold link chain necklace is lightweight and adjustable, and the price makes it approachable, too.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/05/Panacea-Organic-Gold-Link-Chain-Necklace-EMBED-2022.jpeg?w=768",
+        "score": "10/10"
+      },
+      {
+        "name": "Maison Irem Women’s Lucca Necklace Chain",
+        "about": "Maison Irem’s Lucca necklace chain strikes a balance between bold and minimalist.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Maison-Irem-Womens-Lucca-Necklace-Chain-EMBED-2022.jpg?w=795",
+        "score": "10/10"
+      },
+      {
+        "name": "Baublebar Mini Petra Necklace",
+        "about": "Baublebar’s mini Petra necklace is a modern take on the classic round twisted chain (recently spotted on Nathalie Emmanuel) that adds texture to your décolleté jewelry stack.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/baublebar-ini-petra-necklace-EMBED-2022.jpeg?w=768",
+        "score": "10/10"
+      },
+      {
+        "name": "Laura Lombardi Rafaella Gold-Plated Necklace",
+        "about": "Made by hand from gold-plated metal, Laura Lombardi’s bold Rafaella necklace makes a statement when worn on its own or stacked with other chains.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/LAURA-LOMBARDI-Rafaella-gold-plated-necklace-EMBED-2022.jpeg?w=683",
+        "score": "10/10"
+      },
+      {
+        "name": "Ten Wilde 3-Millimeter Snake Chain",
+        "about": "Tracee Ellis Ross, Ashley Graham, Addison Rae and Sofia Richie are among the stylish stars who have worn Ten Wilde’s sleek snake chain necklace ($35 to $50), which comes in widths of three, six, seven and nine millimeters.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Ten-Wilde-Snake-Chain-9mm-EMBED-2022.jpeg?w=731",
+        "score": "10/10"
+      },
+      {
+        "name": "Yara Sophia Puff Mariner Chain Necklace",
+        "about": "Most recently seen on St. Vincent and model Wallis Day, L.A.-based fine jewelry label Yara Sophia’s heirloom-quality handmade pieces are inspired by organic design. This 16-inch classic mariner chain is a more elevated take on the classic style and is perfect for layering with longer pendant necklaces and chokers.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/yara-sophia-puff-mariner-chain-necklace-EMBED-2022.jpeg?w=679",
+        "score": "9/10"
+      },
+      {
+        "name": "Dorsey Leura Earrings",
+        "about": "Regency meets Art Deco in these silver sapphire drop earrings by Dorsey, which are finished with lab-grown stones and blue sapphires.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Dorsey-Leura-Sapphire-Crystal-Earrings-EMBED-2022-e1652726446344.jpeg?w=474",
+        "score": "9/10"
+      },
+      {
+        "name": "Jennifer Behr Essen Headband",
+        "about": "Jennifer Behr’s Essen headband is finished with Swarovski crystals to make you sparkle like the diamond of the season without going too far into tiara territory.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Jennifer-Behr-Essen-Headband-EMBED-2022.jpeg?w=790",
+        "score": "9/10"
+      },
+      {
+        "name": "Betsey Johnson Glitter Rose Frontal Necklace",
+        "about": "The glittering pink roses on this whimsical Betsey Johnson necklace will make your decolletage sparkle all summer and beyond.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Betsey-Johnson-Glitter-Rose-Frontal-Necklace-EMBED-2022.jpg?w=785",
+        "score": "9/10"
+      },
+      {
+        "name": "Pequitobun Jewellery Lady Bridgerton Necklace",
+        "about": "Aptly named after Bridgerton’s matriarch, Pequitobun’s one-of-a-kind handmade necklace nods to fashionable eras of past centuries (including Etruscan, Gothic and Regency periods) and features topaz, green amethyst, quartz, topaz and moonstone gems on a removable bracelet. It’s finished with an antique gold-filled brooch pendant.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Pequitobun-Jewellery-Lady-Bridgerton-Necklace-EMBED-2022.jpeg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Gucci Tiara",
+        "about": "Make a starry statement with this tiara by Gucci that boasts the Italian fashion house’s name in crystal-adorned script.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/gucci-tiara-EMBED-2022.jpeg?w=800",
+        "score": "9/10"
+      },
+      {
+        "name": "Sorrelli Radiant Sunrise Floral Statement Drop Earrings",
+        "about": "Wear these sparkling drop earrings with an LBD or a vintage-inspired ensemble for a pop of color.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Sorrelli-Radiant-Sunrise-Floral-Statement-Drop-Earrings-EMBED-2022.jpg?w=668",
+        "score": "9/10"
+      },
+      {
+        "name": "Lele Sadoughi Lavender Blossom Crystal Drop Earrings",
+        "about": "Go asymmetrical with Lele Sadoughi’s crystal drop earrings with moonstone and lavender gemstones in a 14-karat gold-plated setting.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/lele-sadoughi-earrings-one-size-lavender-blossom-lavender-blossom-crystal-drop-earrings-EMBED-2022.jpeg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Kate Spade Bouquet Toss Statement Earrings",
+        "about": "These crystal statement earrings from Kate Spade are all about Old Hollywood glamour.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/kate-spade-bouquet-toss-statement-earrings-EMBED-2022.jpeg?w=462",
+        "score": "9/10"
+      },
+      {
+        "name": "Dylan Lex Luca Earrings",
+        "about": "Maximalist jewelry label Dylan Lex (which has been worn by Beyoncé, Adele and Jennifer Lopez) is known for its over-the-top adornments, like these 4.5-inch Art Deco-inspired geometric earrings with Swarovski crystals.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/dylanlex-luca-earrings-EMBED-2022.jpeg?w=730",
+        "score": "9/10"
+      },
+      {
+        "name": "Sashi Saskia Earrings",
+        "about": "These crystal-embellished floral earrings by Sashi throw it back to vintage costume jewelry with a touch of modern.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/SHASHI-Womens-Saskia-Earrings-EMBED-2022.jpg?w=831",
+        "score": "9/10"
+      },
+      {
+        "name": "Frasier Sterling Magic Mushroom Necklace",
+        "about": "No need to go down any actual rabbit holes when you slip on Frasier Sterling’s Magic Mushroom necklace, complete with playful pearls and a fungi charms.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Frasier-Sterling-Magic-Mushroom-Necklace-EMBED-2022.jpeg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Short & Suite Light Purple Ring",
+        "about": "Add a cocktail ring or two (or five) to your fashionable fingers, like Short & Suite’s oval bezel gemstone ring that comes in other sweet shades — including Pantone’s hue of the year, periwinkle. The L.A.-based brand’s jewelry has been spotted on Jennifer Hudson, Miranda Kerr, Bella Hadid and many other stars.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2021/07/short-suite-oval-bezel-candy-gem-ring-EMBED-2021.jpg?w=618",
+        "score": "9/10"
+      },
+      {
+        "name": "Bon Bon Whims Chewy Bear Earring",
+        "about": "Add a taste of the rainbow to your outfits with Bon Bon Whims’ playful gummy bear earring on your choice of a rainbow, gold or silver micropavé hoop. The charm comes in a range of vibrant colors ranging from baby blue and pink to lime green.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/bon-bon-whims-gummy-bear-hoop-earring-baby-blue-with-rainbow-EMBED-2022.jpg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Roxanne Assoulin Donut Bracelet",
+        "about": "Mixed-media and multicolor jewelry was also spotted on recent runways. Roxanne Assoulin’s charming donut bracelet is made with heavyweight enamel beads",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/roxanne-asoulin-donut-bracelet-EMBED-2022.jpeg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Mejuri Bold Pearl Necklace",
+        "about": "Not into the oversized beaded look? Try an elevated — and equally maximalist — alternative with Mejuri’s bold pearl necklace.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Mejuri-bold-pearl-necklace-EMBED-2022.jpeg?w=1024",
+        "score": "9/10"
+      },
+      {
+        "name": "Anna Sui Multicolor Daisy Chains Pendant Necklace",
+        "about": "Remember Perler beads? Anna Sui channels the ’90s DIY pastime in the form of this playful daisy-chain pendant necklace, which feels more 2022 than ’70s flower child.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/anna-sui-ssense-exclusive-multic.jpeg?w=1024",
+        "score": "8/10"
+      },
+      {
+        "name": "Chanel Metal CC Paris Brooch",
+        "about": "It doesn’t get any more classic than a Chanel brooch. This pre-loved logo pin is one way to show your adoration for the legendary French fashion house and Mother Earth (by upcycling); online luxury consignment retailer Fashionphile has plenty more options for paying homage to Coco.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/fashionphile-chanel-cc-paris-brooch-EMBED-2022.jpeg?w=1024",
+        "score": "8/10"
+      },
+      {
+        "name": "Versace Gold-Tone Ring",
+        "about": "Rep Versace with this gold-tone statement ring that’s finished with the brand’s iconic Medusa logo and Greca motif.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/versace-gold-tone-ring-EMBED-2022.jpeg?w=920",
+        "score": "8/10"
+      },
+      {
+        "name": "Ganni Charms Bracelet",
+        "about": "All of the cool kids (such as Priyank Chopra, Dakota Johnson and Beyoncé) wear Ganni — and this charm bracelet shows you’re one of ’em.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Ganni-Charms-Bracelets-Hearts-EMBED-2022.jpeg?w=1024",
+        "score": "8/10"
+      },
+      {
+        "name": "Dior Petit CD Earrings",
+        "about": "Dangle your Dior devotion on your earlobes with these gold logo earrings.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/dior-petit-cd-earrings-EMBED-2022.jpeg?w=491",
+        "score": "8/10"
+      },
+      {
+        "name": "Moschino Logo Lettering Chain Choker",
+        "about": "Check off the branded and bold chain trends simultaneously with Moschino’s logo letter chain choker, which features the brand’s name in its classic letters.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Moschino-Logo-Lettering-Chain-Choker-EMBED-2022.jpeg?w=1024",
+        "score": "8/10"
+      },
+      {
+        "name": "Ettika Chain Belt",
+        "about": "The layered chain trend isn’t just for necklines — check off several trends with Ettika’s gold chain-link belt, which is finished with crystals.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/ettika-chain-belt-EMBED-2022.jpeg?w=960",
+        "score": "8/10"
+      },
+      {
+        "name": "Concise Royal Gold Body Necklace",
+        "about": "Whether you wear it with a swimsuit or beneath a skin-baring blazer, this affordable body necklace lets you pull 2022’s body chain trend without breaking the bank.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Concise-Royal-Gold-Body-Necklace-EMBED-2022.jpg?w=551",
+        "score": "8/10"
+      },
+      {
+        "name": "Jordan Road Jewelry Luxe Body Chain",
+        "about": "Jordan Road’s crystal and gold body chain will put you in a vacation state of mind — without the jet lag.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/JORDAN-ROAD-JEWELRY-Luxe-Body-Chain-EMBED-2022.jpeg?w=678",
+        "score": "8/10"
+      },
+      {
+        "name": "H&M Beaded Body Chain",
+        "about": "This adjustable beaded body chain is finished with sparkling stones — perfect for adding an effortless look to your spring and summer ensembles.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/HM-Beaded-Body-Chain-EMBED-2022.jpeg?w=768",
+        "score": "7/10"
+      },
+      {
+        "name": "Agent Provocateur Sabrina Bodychain",
+        "about": "Now this is how you make a statement with chains. Wear Agent Provocateur’s Sabrina body chain over a figure-hugging LBD or dare to go nearly-bare (à la Rose McGowan in her iconic 1998 MTV Movie Awards dress by fashion designer-turned-sculptor Maja Hanson).",
+        "img": "https://www.hollywoodr  eporter.com/wp-content/uploads/2022/01/Agent-Provocateur-Sabrina-Bodychain-EMBED-2022.png?w=802",
+        "score": "7/10"
+      },
+      {
+        "name": "Gorjana Surfboard Parker Charm",
+        "about": "Gorjana’s affordable collection of charms lets you personalize your accoutrements with letters, engravable pendants, pavé pieces and pearls, to name a few.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Gorjana-Surfboard-Parker-Charm-EMBED-2022.jpeg?w=1024",
+        "score": "7/10"
+      },
+      {
+        "name": "Silver Plated Gold Dipped Cubic Zirconia Pendant Necklace Set",
+        "about": "This four-piece necklace and pendant set from Target includes designs to inspire wearers to dream and manifest.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Silver-Plated-Gold-Dipped-Cubic-Zirconia-Pendant-Necklace-Set-4pc-EMBED-2022.jpeg?w=626",
+        "score": "7/10"
+      },
+      {
+        "name": "Studs Pavé Smiley Huggie Hoop",
+        "about": "Get an optimistic start to 2022 with this pavé smiley-faced huggie hoop earring, which is available solo or in a pair.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/studs-pave-smiley-huggie-single-EMBED-2022.jpeg?w=1024",
+        "score": "7/10"
+      },
+      {
+        "name": "Jennifer Zeuner Mia Diamond Huggie Earrings",
+        "about": "Wear your heart on your ears with Jennifer Zeuner’s Mia huggie hoops, which feature an enamel charm with a diamond accent.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Jennifer-Zeuner-Mia-Diamond-Huggie-Earrings-EMBED-2022.jpeg?w=1024",
+        "score": "7/10"
+      },
+      {
+        "name": "Sterling Forever Evil Eye Amulet Pendant Necklace",
+        "about": "Ward off trouble with Sterling Forever’s chic evil eye amulet necklace, which also comes in 14-karat gold.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Sterling-Forever-Evil-Eye-Amulet-Pendant-Necklace-EMBED-2022.jpeg?w=640",
+        "score": "7/10"
+      },
+      {
+        "name": "Awe Inspired Woman Power Goddess Charm Necklace",
+        "about": "Meghan Markle was spotted in Awe Inspired’s Woman Power Goddess Charm necklace, which boasts a pendant featuring the female Venus symbol combined with a protesting fist that’s finished with a purple amethyst. It comes on a sterling silver or 14-karat vermeil gold yellow chain in your choice of length and style.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/awe-inspired-Woman-Power-saturn-necklace-EMBED-2022.jpeg?w=1000",
+        "score": "7/10"
+      },
+      {
+        "name": "Pyrrha Direction Necklace",
+        "about": "Known for teaming with Game of Thrones, Canadian fine jewelry line Pyrrha makes unique talismans and pendant necklaces (available in sterling silver and 14-karat gold options) that bring an antique finish to modern ensembles.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Pyrrha-Direction-Necklace-EMBED-2022.jpeg?w=916",
+        "score": "7/10"
+      },
+      {
+        "name": "Aurate x Kerry Lioness Pendant Necklace",
+        "about": "Kerry Washington’s sustainable fine jewelry collection with Aurate includes this bold pearl necklace featuring the goddess Sekhmet. It’s available in recycled white, yellow or rose gold.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/aurate-x-kerry-lioness-pendant-necklace-EMBED-2022.jpeg?w=1024",
+        "score": "7/10"
+      },
+      {
+        "name": "Monica Rose x Sarah Chloe Oval Locket",
+        "about": "Celebrity stylist Monica Rose has teamed with fine jewelry label Sarah Chloe on a collection of necklaces, earrings, anklets and rings designed to be layered and stacked. The MSxSC capsule includes this vintage-inspired locket necklace that can be effortlessly worn with modern chains, pendants and other pieces from the line.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/sarah-chloe-x-monica-rose-alaia-oval-locket-EMBED-2021.jpeg?w=1024",
+        "score": "7/10"
+      },
+      {
+        "name": "Necklet Triple Layering Clasp",
+        "about": "Ditch the tangled chains and wear your maximalist mix on this triple-necklace layering clasp by Necklet, which has a magnetic closure for easy removal.",
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/necklet-triple-layering-clasp-EMBED-2022.png?w=600",
+        "score": "7/10"
+      }
+    ],
+    "blazers":[
+      {
+        "name": "Jodhpuri Blazer For Men:",
+        "about": "If you are looking for an Indian desi version of a blazer, nothing like not eyeing to have a Jodhpuri ethnic blazer. This cream-coloured blazer is totally stylish and fabulous that it has a mix of modern classic ethnic hues along with contemporary stitch trend.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2020/04/Jodhpuri-Blazer-.jpg.webp",
+        "score": "10/10"
+      },
+      {
+        "name": "Men’s Sports Linen Blazer:",
+        "about": "Modern men want a mix of class, sporty style and trendy contemporary look. Here is one such option. This blue Self-design sports linen blazer for men gives ample options to sport in several ways – looking elegant and handsome. The colour further is quite enhancing the look.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2020/05/Men’s-Sports-Linen-Blazer.jpg.webp",
+        "score": "10/10"
+      },
+      {
+        "name": "Double Breasted Solid Blazer for Men:",
+        "about": "Most of us often do not prefer having a double breast blazer. Ever wondered and questioned why? Here we give you one such incredible option to flaunt out your right style and handsome looks. This black regular fit blazer is quite amazing in its look and makes one appear classy and hot.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2020/05/Double-Breasted-Solid-Blazer-for-Men.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Tweed Formal Blazer for Men:",
+        "about": "Tweed woollen blazer is the new trend across the globe. Men prefer to have at least one tweed structured blazer in their wardrobe as it serves all right reasons – appears fantastic with a contemporary checks pattern, looks textured and intricate and yet is formally bossy. Here is one such favourite of ours!",
+        "img": "https://stylesatlife.com/wp-content/uploads/2020/05/Tweed-Formal-Blazer-for-Men.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Men’s Corduroy Slim Fit Blazer:",
+        "about": "The Corduroy slim fit blazer is new in trend right now. While most of us already have heard of Corduroy blazers, they have gradually gone out of fashion and now has entered this slim fit modern variant and model. It does not entirely give a formal look, but instead gives excellent and patterned current style statement, which is unique and stylish too!",
+        "img": "https://stylesatlife.com/wp-content/uploads/2020/04/Men’s-Corduroy-slim-fit-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Casual Leather Blazers For Teenage Boys:",
+        "about": "The bikers’ chosen widely leather jacket design or for winters is the simple black leather blazer jackets for men. With fantastic stitch liners, it is extensively carried on jeans. The design is mostly worn by bikers and the teens of the college for a fashionable appearance. Boys who have an eye for modern fashion must not miss this one out.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Simple-leather-jacket.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Navy Blue Velvet Blazer:",
+        "about": "Looking for something trendy for official events? Here is a stylish navy blue men blazers design to capture your mind made from velvet. Made with black patch designs, it gives a lovely look. The print design is quite popular among the youth for casual and official events to look stunning. Those young modern youth who does not prefer plain old boring blazer can prefer this kind of eventful styles.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Navy-blue-velvet-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Simple Black Blazer Men:",
+        "about": "Black is always the favourite for men’s fashion blazers. A simple cotton blazer man is widely selected as it works for both casual and official look. Made from silk, it gives a dashing appearance on black trousers. The simpler it is, the more sophisticated you appear. This classic design, a single-button blazer for men, will undoubtedly not get out of fashion.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Simple-black-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Men’s Party wears Blazer:",
+        "about": "This colourful blazer for men such as this cosy, stylish red blazers is mostly the choice for a special occasion like wedding and related parties. Made from silk, it gives a shining effect with a bow. The blazer is also given a black strip on the pockets and collar for a lovely design. This latest addition to blazer’s market has created a lot of demand, and we don’t wonder why! This can be further great red blazer for the groom too!",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Party-wear-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Double Colour Blazer:",
+        "about": "A velvet men blazers design with the dual colour effect is quite preferred by the casual wearers these days. The blazer suit is given black and Grey patchwork for parties and events. The wide range of colours it offers leaves you in a difficult situation to select from. The piece is also a combination of silk with velvet.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Double-color-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Designer Blazer For Wedding:",
+        "about": "Want to shine out with heavy designer blazer men? This best blazer for men comes as a maroon velvet blazer with a silver design designed to give a stunning look above dhoti salwar. The long blazer is the best suitable for dhoti salwar or also on pants. Mehndi designs inspire the tint silver design to give a natural look. Those who have an eye for intricate styles and ornamental designs can best prefer this one.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Designer-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Casual Funky Jacket Blazer:",
+        "about": "If you love wearing funky things for a unique look, is one with a leather jacket blazer with side pockets in black. It is given several buttons to provide a different look. The black design is suitable for any kind and colour of jeans for a casual look. The leather blazer is also made with cotton silk material for a shiny look in events.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/Funky-jacket-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "White Blazers For Wedding:",
+        "about": "White is quite trendy for marriages, especially in India. The white silk blazers for men are given designer inner for an authentic look for weddings on white pants. The simple blazer is attached with a light brown bordered vest design for a proper catch to the viewer. It is also ideal for wearing for high-end corporate events.",
+        "img": "https://stylesatlife.com/wp-content/uploads/2017/02/White-blazer.jpg.webp",
+        "score": "9/10"
+      },
+      {
+        "name": "Woolen Blazers For Men:",
+        "about": "A woollen blazer with thick cotton covering is quite a fantastic thing to include in your winter wear. This fancy blazer for men is also given a high collar to protect your neck from the cold. The design is quite suitable on casuals for a live band, event or party. It also gives the formal wear a dignified look.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Men’s Side Buttons Blazers:",
+        "about": "This differently designed winter wear blazer comes with wide-open and large size buttons for a delicate look. The Blazers give you two styles to carry the blazer, with an open collar and flatten one for official and casual appearances. This semiformal woollen blazer is best during colder seasons, giving a quite flaunting look with anyone.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Men’s Blazers Long in Size:",
+        "about": "Here come blazer jackets for men design with a right length till your knees. The jacket is made from leather covered with cotton to be worn from any of the sides. It is suitable for monsoons. The long blazers are also available in silk and leather materials to select from. This latest variety of dual-purpose blazer is quite efficient and is multiseasonal in work. It even suits as a blazer for the old man.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Eskimo Blazers For Men:",
+        "about": "Taking a trip to the coolest region? A leather cotton men’s casual blazer with a woollen cap design is the best suitable. The design is also available in various colours to choose from. There are also Eskimo blazer designs which have dual caps. One made from wool and the other from cotton for a stylish look.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Denim Jeans Blazer Jacket:",
+        "about": "Love wearing jeans? Here is a casual’s blazer men’s design made with jeans given a whitewash for a cosy look. It is the prime choice of teens in college. The monkey wash pattern is widely designed matching any jeans with a simple plain white T-shirt. It looks fantastic on hot summers for a dashing look. Further, this gives such a cool and casual appearance, quite balancing the modern trends.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Men’s Unicorn Purple Blazer:",
+        "about": "Looking for a colourful blazer? A unicorn purple simple blazer design would win your hearts with its simplicity fora sober appearance. The cosy silk cotton blazer jacket is given a single pocket with minimum depth to fit your handkerchief for a fantastic designer look. Those who want simplistic design, yet prefer to look classy with an elegant vibe can do this.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Sleeveless Cotton Blazer:",
+        "about": "A sleeveless cotton blazer with prints gives a cute appearance for even regular wear to the viewer. It also suits best on jeans with long sleeve shirts for a casual party. It best suits black and white pants. This short blazer for men blend of contemporary ethnic look is one of our absolute favourites!",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Bordered Blazer:",
+        "about": "A silk blazer with a length of the hips in navy blue colour with cream borders gives a stunning look for any casual date. It is a widely selected blazer design for events too. It provides a classic look, especially to the rock stars or style-oriented people for high society partied or receptions.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Sleeve Design Blazer For Men:",
+        "about": "This unique striped or plaid check blazer is quite in trend from long back, and yet is among our favourites. This style is effortless to carry forward, with simple maintenance too. All you need to do to get right fit is pair it with formal or semiformal events, and you surely will pull off the look effortlessly.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Floral Print Blazer Men:",
+        "about": "Love wearing floral designs? A black blazer in silk is given a pink and white floral design which goes well with black pants. It also has two pockets which seem hidden due to the design. The first time on models in a fashion week red carpet ramp walk for summer blooming designs was seen.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Traditional Embroidery Blazer:",
+        "about": "Like embroidery designs in golden colour? A stylish blazer for men is given golden branches for a jungle look to the wearer on a black silk blazer. It looks terrific for special functions and events. The design is also inspired by the tiny zardoshi designed work perfect for any wedding or festive look.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Men’s Criss Cross Checks Cotton Blazer:",
+        "about": "A medium-length men blazers design made from cotton with different blue and red lines giving a criss-cross checks design is stunning on jeans for a casual appearance on dates and autumn. It is inspired by the traditional models of blazers and coat to be carried with a designer touch. Those who love rustic designs can prefer this model.",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Leopard Print Blazer:",
+        "about": "Here is a funky latest blazer made in silk. The design takes the prints similar to that of a leopard. It gives a stylish look on black jeans for a casual look in clubs or parties. Such models are worn primarily by the highly professional dancers and singers to provide a final touch to their performance with their looks.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Simple Woolen Blazer:",
+        "about": "Like to keep your blazer simple? A woollen blazer men’s design in Grey with black pocket designs is quite unusual for casual trending party wear. Made from woollen fabric, it is also the best winter wear on jeans. The upper pocket has a new colour that is a mixture of the blazer colour and below the pocket, colour to add to its beauty.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Casual Cap Blazer:",
+        "about": "A casual blazer for men design is given a hunk twist here with a woollen cap design. The blazer is made with cotton silk and given a soft cotton woollen cap for a teen and appealing look. It is widely popular for a party look, on trips, casual events and much more. The design looks similar to the winter sweaters and hence is ideal winter wear for the teens of the college.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "T-shirt Design Blazer:",
+        "about": "Looking for a classy look for a winter night out? This gents’ blazer dress for man is to look like a tee shirt. The white blazer is made of silk and given a deep cut below with buttons studded on it. It is also given a broad collar which covers your neck. Five-star hotels widely select this Indo western blazer for men to give a sober look to their workers and chefs who are professional.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Collar Fit Blazer:",
+        "about": "A thick blazer made from silk with a collar fit design is a new and popular trend getting viral among men. The men’s casual blazers design is given a fitting at the neck while it is shapely similar to a waist to allow the inner vest to be visible. The design is widely selected for a casual event. It is a prime choice for the youth who have a well-maintained gym body to hunt appearance.",
+        "img": "",
+        "score": "7/10"
+      }
+    ],
+    "mens-shorts":[
+      {
+        "name": "Suit Shorts",
+        "about": "They look like short trousers and perfectly complement the business style. This model goes well with a polo, short-sleeved shirt, and plain T-shirt.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/10/mens-shorts-2021-1024x1024.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Wide Shorts",
+        "about": "Or, as they are also called, voluminous. Their loose fit looks a little baggy. Therefore, such a model should be used exclusively in a sports style of clothing or casual variations.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/10/shorts-for-men-2021-2.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Denim Shorts",
+        "about": "All shades of blue are popular and fashionable this season. Minimalist models are preferred. Multiple rivets, snakes, and other decorative elements in men’s shorts styles 2023 for spring are not relevant.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/10/Mens-shorts-styles-2021-3.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Military",
+        "about": "The military-style, as a symbol of masculinity, is mega-popular. Therefore, even models of camouflage colors may well complement a men’s wardrobe.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/Mens-shorts-styles-2021-115.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Cycling Shorts",
+        "about": "In 2019, cycling shorts migrated from a sports wardrobe to a casual women’s one, and today – to a man’s one. World brands unobtrusively but very confidently add them to looks with hoodies, sweatshirts, office shirts, and classic jackets.",
+        "img": "",
+        "score": "9/10"
+      },
+      {
+        "name": "Suit Shorts",
+        "about": "In current men’s collections, you can find shorts made of cotton, silk, cashmere, denim, and linen. As a rule, these are models with a straight silhouette below the knee and with bright prints, in which it is convenient to walk down the street in the heat, but which the boss is unlikely to like.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/mens-casual-shorts-2021-31.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Sports Shorts",
+        "about": "The men’s running model is an option with cropped legs and a loose elastic waistband that is adjustable with laces. For cycling, there are tight-fitting shorts made from elastic fabrics with a mid-thigh length.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/Mens-shorts-styles-2021-12.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Beach Shorts",
+        "about": "Men, as well as women, prepare for vacations and rest on the beach. They prefer comfortable models of shorts that do not hinder movement.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/10/Mens-shorts-styles-2021-1.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Men’s Denim Shorts",
+        "about": "This item of everyday wear is always present in the men’s wardrobe, regardless of the age of its owner.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/mens-casual-shorts-2021-2.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Men’s Shorts-Trousers Transformers",
+        "about": "Over the past ten years, men’s shorts-trousers have been regularly present at fashion shows. The fashion for this type of clothing remains, only individual cut elements and shades change. Such products are created as a priority in everyday style. The practical design allows them to be worn in warm or cold weather.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/Mens-shorts-styles-2021-15.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Striped Shorts",
+        "about": "Another trend is the strip. It can be present in everything from socks to hats in men’s wardrobe 20Shorts for men 2023 are no exception.",
+        "img": "https://glorytrends.com/wp-content/uploads/2020/11/mens-casual-shorts-2021-1.jpg",
+        "score": "8/10"
+      }
+    ],
+    "gowns":[
+      {
+        "name": "Evening gowns ",
+        "about": "Formal evening gowns are long dresses suitable for wearing on formal/special occasions and are usually made of expensive fabrics, with beautiful embellishments and meant to make the wearer stand out among the crowd. ",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns8.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Morning Gowns",
+        "about": "Morning gowns are casual long dresses worn during the day.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns16.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Ball Gown",
+        "about": "Ball Gown is the most common silhouette in gowns – with a fitted bodice, tight waist and a very full, floor length skirt, with or without a train.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns1.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Mermaid gown",
+        "about": "In this type of gown the skirt is tight fitted at the hips and thighs but flares out from the knees.This is achieved by cutting panels which flares or by attaching a different fabric from the knees. The gown is also known as a trumpet gown.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-4.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "A-Line Gown",
+        "about": "In this style the gown has a fitted bodice and the skirt flares gently from the waist to the skirt hem, creating the shape of a capital letter A. This is usually achieved with princess line panels so it is also called princess line gown",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-424.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Sheath gown",
+        "about": "This has a body hugging fit all throughout.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-14.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Bouffant skirt gown",
+        "about": "This is a gown with a very full skirt . This gown usually has a gathered skirt with a very puffy look – because of this the waist can look very small. The bouffant look can be achieved by making the skirt in many layers of tulle fabric or by using hoops or petticoats inside and/or using lot and lots of gathered fabric.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-8.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Circular skirt gown ",
+        "about": "This gown is fitted at the waist but the skirt is very flared. The skirt of this gown is cut as a circle skirt to achieve this.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns9.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Full Skirt Gown",
+        "about": "A full skirt is gathered at the waist but is not as full/puffy as the bouffant skirt gown.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-17.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Bustle gown",
+        "about": "This is a vintage style gown with an extra attachment added to the back of the gown (where the bodice meets the skirt)- usually, this is a train or a gathered fabric giving the appearance of fullness at the back. It is usually attached with a bow on top.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns-6-7.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Bias cut gown",
+        "about": "This is a gown cut with the true cross grain/bias of fabric so that it fits the body perfectly and has a good drape, without adding volume at the waist or hips and being tight-fitting at the hem. There is a fluidity and body-hugging fit to the fabric of skirt that makes this gown very attractive on most body shapes",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns112.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Asymmetrical Gown",
+        "about": "This gown has an asymmetrical hemline.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns676.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Tiered gown",
+        "about": "A gown with many layers of skirts.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns6.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Panel gown",
+        "about": "The gown is made by joining panels of fabrics.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gown-54.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Strapless gown",
+        "about": "This is a gown with a bustier/corset bodice without straps or sleeves. Also known as a corset style.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns7.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Backless gown",
+        "about": "The type of gown with a backless bodice.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns11.jpg",
+        "score": "7/10"
+      },
+      {
+        "name": "Cami gown",
+        "about": "This is a camisole style long dress, with thin spaghetti straps and a plunging v neckline",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns672.jpg",
+        "score": "7/10"
+      },
+      {
+        "name": "Empire waist gown",
+        "about": "In this gown, the fitted bodice ends just under the bust and the gathered waist starts from there, looking at a high waist.",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Maxi Gown",
+        "about": "This is a casual gown in a flowy fabric, with a fitted bodice and loose skirt.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns15.jpg",
+        "score": "7/10"
+      },
+      {
+        "name": "Halter neck gown",
+        "about": "A halter neck gown will have a band encircling the neckline connecting to the sleeveless bodice leaving the shoulders and part of the back bare.",
+        "img": "https://sewguide.com/wp-content/uploads/2019/10/gowns5.jpg",
+        "score": "7/10"
+      }
+    ],
+    "lehengas":[
+      {
+        "name": "Anarkali Lehenga- One of the Best types of Lehengas",
+        "about": "Anarkali Lehenga is the Ethnic attire that will be the favorite and classy choice forever. There are different Kalidar Lehngas designs like 8 Kalis, 16 Kalis, 32 Kalis, and so depending upon how many flares you want? Apart from this Umbrella style is equally popular for the flare.  Among all Lehengas, Anarkali Lehenga or Umbrella lehenga give the best flare.",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/kalidar-scaled-e1597724317177.jpg",
+        "score": "10/10"
+      },
+      {
+        "name": "Peplum style- The latest style of Lehenga",
+        "about": "Peplum Lehenga is having a big Ethnic fashion moment. If you’re a bride, and you just want to look Contemporary then it’s a perfect choice. Also, the Peplum blouse is tailored up to the waist and flared under the waist. What even more special about this flared style is actually it’s super comfortable. Thus, you will not get irritated by wearing it even a whole day.",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/peplum-style-scaled-e1597726082848.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Jacket style Lehenga- Indo-Western types of Lehengas",
+        "about": "When it comes to Indian Weddings, there’s nothing like gorgeous than different types of Lehenga Choli. Elegant yet Chic Lehengas are the most stunning style. The Jacket style Lehenga is one of the best types of Lehengas. If you’re a wedding guest, then you can try this Lehenga with a Jacket style blouse at the time of reception or wedding. ",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/jacket-1-scaled-e1597726152985.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Layered Lehenga- Stunning style",
+        "about": "Layered or Ruffled Lehengas are the most current trend. Moreover, it changed the definition of the typical Lehenga choli. It is a combination of western Gown and Indian Lehenga. Nowadays, the fashion trend is totally changed. Women prefer to wear the Ruffled Lehenga to give the feminine look. Also, you can opt for a Ruffled dupatta with this style. ",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/layered-scaled-e1597726227305.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Bridal Lehenga- Classic types of Lehengas for Wedding",
+        "about": "The trend over Bridal Lehengas is countless. Even In modern times, Brides want to be truly Classic in authentic ethnic wear. Also, The colors and work designs changed over time, but the style remains the same. Additionally, there is a new trend to wear a double dupatta over this heavy attire.",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/bride-scaled-e1597726304248.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Kurti Style Lehenga- look subtle in these types of Lehengas",
+        "about": "Kurti style is a very innovative and versatile style these days. For this, you can try the Kurti with Lehenga. One of them should be louder in design. If you wear Simple Kurti then must go with an embellished Lehenga. And if you try heavier Kurti then pair simple plain Lehenga.",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/kurtii-scaled-e1597726460463.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Asymmetric Lehenga- Look Stylish in Functions",
+        "about": "The asymmetric Lehenga pattern is very modern. It gives the perfect Indo-western look. If you’re a bridesmaid or relative then the Asymmetric Lehenga style is perfect for you. Also, it gives the stunning look at the time of Reception, Sangeet, or Wedding.",
+        "img": "https://g3fashion.com/blog/wp-content/uploads/2020/08/asymmetric-lehengasd-scaled-e1597726517159.jpg",
+        "score": "8/10"
+      }
+    ],
+    "dupatta":[
+      {
+        "name": "Georgette Dupatta",
+        "about": "Georgette is the best known fabric for summers, spring and the days you don’t feel like carrying heavy dupattas. They are generally light in weight and feature a little bit transparent texture. A light lace works to get casually pretty look and if you want to get a festive use a heavily embroidered lace.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/0000260_red-georgette-dupatta.jpeg",
+        "score": "10/10"
+      },
+      {
+        "name": "Handmade Phulkari Dupatta",
+        "about": "These kind of dupatta designs are specially made with hand embroidery on georgette or chiffon dupattas. This phulkari dupattas are most famous in Punjab and you can call them Pride of Punjab.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/Phulkari-dupatta.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Chiffon Dupatta",
+        "about": "Chiffon dupattas are extremely light in weight and flimsy, so you should always prefer going with plain chiffon dupattas. These type of dupatta designs are amazingly soft to touch and great for pre-wedding ceremonies etc.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/designer_chiffon_dupatta_in_yellow-ub1423_1_.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Net Dupatta",
+        "about": "Net Dupattas are light in weight and have an extreme sheer texture. With a particular amount of embroidery, it can also go either way. The most attractive thing about net dupattas is floral patch work or chikan kaari. These type of dupatta designs are most common among the fashionistas of modern days.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/brm40_front_1.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Banarasi Silk Dupatta",
+        "about": "Banarasi silk dupattas are the royal picks for lavish events because they are quite like heavy bunks made for special galas only. These dupatta designs are awesome for layering.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/b0hkxspd108_2_.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Gota Patti Dupatta",
+        "about": "Gota patti is the most evergreen trend, they never go out of fashion. You can choose a gota patti dupatta for any occasion or any weather. These dupatta designs are easily available and they are super quirky with unique sophistication.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/df1edb4ec60e4636278fb8e7d1ec6720.jpg",
+        "score": "9/10"
+      },
+      {
+        "name": "Rajasthani Leheriya Dupatta",
+        "about": "Rajasthani leheriyas got a lot of attention lately, they can be worn at almost every occasion. You can get them in simple designs and by adding a heavy lace can turn them into wedding staple too.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/MP000000001267071_1348Wx2000H_20170326221208.jpeg",
+        "score": "8/10"
+      },
+      {
+        "name": "Pashmina Dupatta",
+        "about": "The type of print which we see over these dupatta designs is widely known as Kashmiri art. They can add instant elegant impact to your appeal which will further bring you oodles of compliments. These feminine staples are truly comfortable and warm to wear all day long during chilly days.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/MP000000001941893_1348Wx2000H_20171018011722.jpeg",
+        "score": "8/10"
+      },
+      {
+        "name": "Velvet Dupatta",
+        "about": "These velvet dupattas designs are like brides dream come true during winter days. A complete velvet pick can be really heavy and tough to carry as a bride, so going for a mix and match of velvet dupattas with prints over another fabric are best.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/62f06646930bdd3b3b99285303c62975-punjabi-dress-punjabi-suits.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Zardosi Work Dupatta",
+        "about": "Thanks to Persia, who brought this art to India. In India, Lucknow is known to be the best at this kind of technique. Zardosi work dupatta designs showcase complex nature, floral and leaf motifs. Originally, zardosi threads are made of an alloy of gold and silver thus they are little expensive.",
+        "img": "https://baggout.com/wp-content/uploads/2017/10/edit-1feb2017-15.jpg",
+        "score": "8/10"
+      },
+      {
+        "name": "Kalamkari Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Cotton Silk Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Buti Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Pom Pom Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Jaal Work Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Digital Printed Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Ikat Dupatta",
+        "about": "",
+        "img": "",
+        "score": "8/10"
+      },
+      {
+        "name": "Madhubani Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Chanderi Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Bandhani Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Tussar Silk Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Kantha Embroidered Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Patachitra Painted Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Sequin Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      },
+      {
+        "name": "Floral Dupatta",
+        "about": "",
+        "img": "",
+        "score": "7/10"
+      }
+    ],
+    "womens-nightwear":
+      [
+        { "name": "Cotton Nightwear Gown:", "about": "", "img": "", "score": "10/10" },
+        {
+          "name": "Cotton Nightwear Sleep Shorts for Teens:",
+          "about": "",
+          "img": "",
+          "score": "10/10"
+        },
+        {
+          "name": "Girls Cute One Piece Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "10/10"
+        },
+        { "name": "Full Sleeve Nightwear:", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Side Slit Cotton Nighty Slip:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Girls Cotton Nightwear Jumpsuit:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Checkered British Night Pajamas:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        { "name": "Night Kaftans for Women:", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Blue Night Maxi for Women:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "One Piece Honeymoon Red Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Two-Piece Wedding Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Three Piece Wedding Nightwear Women’s:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Black Four Piece Wedding Nightwear Dresses:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Awesome Wedding Collection Nightwear Dresses:",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "White Laced Nightwear Dresses:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Transparent Sexy Nightwear for Women:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Three-Quarter Sleeves Laced Nightwear for Girls:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Burgundy Drawstring Hoody, Women Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Comfortable Splits Pajama Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Beautiful Full Nightwear Dress:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Summer Plus Size Nightwear for Women:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Full Body Covering Maternity Night Wear:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Women Winter Nightdress:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Women’s Quilted Warm Pair Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Fluffy Warm Pink Nightwear for Girls:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Girls Warm Fleece Kitty Cat Pajamas:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Women’s Animal Print Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Cartoon Character Nightwear for Women:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Oversized Quoted T-Shirts for Nightwear:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Navy Striped Capri Nightwear Women’s:",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        }
+      ],
+      "mens-running-shoes":[
+        {
+          "name": "Nike Air Zoom Rival Fly 3",
+          "about": "",
+          "img": "",
+          "score": "10/10"
+        },
+        { "name": "APL TechLoom Bliss", "about": "", "img": "", "score": "10/10" },
+        {
+          "name": "Nike Air Zoom Pegasus 39",
+          "about": "",
+          "img": "",
+          "score": "10/10"
+        },
+        { "name": "Norda 001", "about": "", "img": "", "score": "9/10" },
+        { "name": "Salomon Raid Wind", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Nike Pegasus Trail 3 GORE-TEX",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        { "name": "Asics GT-2000 10", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Adidas Ultraboost 5.0 DNA",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        { "name": "Asics GT-2000 10", "about": "", "img": "", "score": "9/10" },
+        { "name": "Nike Zoom Fly 4", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Saucony Endorphin Speed 2",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Nike React Infinity Run 2 Flyknit",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        { "name": "Hoka One One Rincon 3", "about": "", "img": "", "score": "9/10" },
+        {
+          "name": "Salomon Cross Pro 2 Trail",
+          "about": "",
+          "img": "",
+          "score": "9/10"
+        },
+        {
+          "name": "Nike Air Zoom Pegasus 38 Shield",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        { "name": "Asics Gel-Nimbus 23", "about": "", "img": "", "score": "8/10" },
+        {
+          "name": "Adidas Climawarm Bounce",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Hoka One One X Engineered Garments Bondi L",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Nike Flex Experience Run 10",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Adidas Adizero Adios Pro 2",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        {
+          "name": "Nike Zoom Alphafly Next Nature",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        { "name": "Hoka One One Bondi X", "about": "", "img": "", "score": "8/10" },
+        { "name": "Asics Novablast 2", "about": "", "img": "", "score": "8/10" },
+        { "name": "Allbirds Tree Dashers", "about": "", "img": "", "score": "8/10" },
+        {
+          "name": "Nike ZoomX Invincible Run Flyknit",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        { "name": "Adidas Supernova M", "about": "", "img": "", "score": "8/10" },
+        {
+          "name": "Salomon Odyssey Advanced",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        { "name": "Arc'teryx Norvan SL 2", "about": "", "img": "", "score": "8/10" },
+        {
+          "name": "Nike Air Zoom Pegasus 38",
+          "about": "",
+          "img": "",
+          "score": "8/10"
+        },
+        { "name": "Asics Gel-Kayano 28", "about": "", "img": "", "score": "7/10" },
+        { "name": "Saucony Triumph 19", "about": "", "img": "", "score": "7/10" },
+        {
+          "name": "Nike ZoomX Invincible Run Flyknit",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        { "name": "Adidas 4DFWD", "about": "", "img": "", "score": "7/10" },
+        {
+          "name": "Columbia Escape Pursuit Trail",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Nike x Undercover Gyakusou ZoomX Vaporfly NEXT% VaporWeave",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        { "name": "Merrell Moab Flight", "about": "", "img": "", "score": "7/10" },
+        { "name": "Nike Downshifter 11", "about": "", "img": "", "score": "7/10" },
+        {
+          "name": "Hoka One One Clifton 8",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        { "name": "Brooks Glycerin 19", "about": "", "img": "", "score": "7/10" },
+        {
+          "name": "Nike ZoomX Vaporfly NEXT% 2",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "New Balance Fuelcell RC Elite V2",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        {
+          "name": "Nike Pegasus 3 Mesh Trail",
+          "about": "",
+          "img": "",
+          "score": "7/10"
+        },
+        { "name": "ON Cloudnova", "about": "", "img": "", "score": "7/10" }
+      ]
+
+
+
+
+}

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: blue; */
 }
 
 code {
@@ -23,6 +24,7 @@ code {
 .dropdown-content {
   display: none;
   position: absolute;
+  color: black;
   background-color: #f9f9f9;
   min-width: 200px;
   box-shadow: 0px 18px 6px 0px rgba(0, 0, 0, 0.2);
@@ -33,10 +35,11 @@ code {
 }
 .sub{
   font-family:fantasy;
-  font-size: large;
+  font-size: 22px;
+  font-weight: bold;
 }
 .dropdown:hover .sub{
-  color: blue;
+  color:rgb(172, 169, 169);
   transition: ease-in-out;
   transition-duration: 0.1s;
 }
@@ -44,26 +47,21 @@ code {
   display: block;
   opacity: 1;
 }
-
+.big-box:hover .score{
+  background-color: white;
+}
 .ch{
   padding:6px;
   cursor: pointer;
 }
 .ch:hover{
-  background-color: rgb(40, 49, 224);
+  background-color: rgb(112, 113, 121);
   color: white;
+  transition-duration: 0.2s;
 }
 
 
-/* ******************** */
-/*
-      Anthony Krivonos
-      Flix Carousel
-      src/carousel.js
-      09.13.2018
-*/
 
-/* Global Variables */
 :root {
 
       /* Tile Dimensions */
