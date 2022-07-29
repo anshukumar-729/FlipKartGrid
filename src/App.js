@@ -7,7 +7,7 @@ const App = () => {
     <BrowserRouter>
       <div>
         <Routes>
-          <Route exact path="/FlipKartGrid" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route exact path="/product/:category" element={<Product />} />
         </Routes>
       </div>

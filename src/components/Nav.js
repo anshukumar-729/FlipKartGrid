@@ -22,10 +22,11 @@ const Nav = () => {
         </span>
       </div>
       <div className="w-full p-16 flex -mt-10">
-        <img
+        <a href="/"><img
           className="bg-slate-200"
           src="https://see.fontimg.com/api/renderfont4/DO3oE/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VHJlbmRpbmdz/quicksilver-fast-regular.png"
         />
+        </a>
 
         <div style={{ width: "70%" }} className="text-white"></div>
         <div className="flex">
